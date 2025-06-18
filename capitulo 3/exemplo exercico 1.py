@@ -1,7 +1,7 @@
 def adicao(numero, numero2):
     return numero + numero2
 
-def subtracao(numero)
+def subtracao(numero, numero2)
     return numero - numero2
 
 def multiplicacao(numero1, numero2):
